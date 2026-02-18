@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "description": "Latest Apple smartphone with A17 Pro chip",
+    "price": 999.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "description": "Flagship Android phone with AI features",
+    "price": 899.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 14",
+    "description": "Powerful laptop with M3 Pro chip",
+    "price": 1999.99,
+    "category": "Computers"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "description": "Premium noise-cancelling headphones",
+    "price": 349.99,
+    "category": "Audio"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "description": "Versatile tablet with M1 chip",
+    "price": 599.99,
+    "category": "Tablets"
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 9",
+    "description": "Advanced smartwatch with health tracking",
+    "price": 399.99,
+    "category": "Wearables"
+  },
+  {
+    "id": 7,
+    "name": "AirPods Pro 2",
+    "description": "Wireless earbuds with active noise cancellation",
+    "price": 249.99,
+    "category": "Audio"
+  },
+  {
+    "id": 8,
+    "name": "Dell XPS 15",
+    "description": "Premium Windows laptop with OLED display",
+    "price": 1799.99,
+    "category": "Computers"
+  }
+]
